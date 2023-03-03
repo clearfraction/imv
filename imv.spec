@@ -60,3 +60,5 @@ rm -rf %{buildroot}/usr/share/man
 /usr/bin/imv-msg
 /usr/bin/imv-x11
 /usr/share/applications/imv.desktop
+/usr/bin/imv-dir
+/usr/share/applications/imv-dir.desktop
