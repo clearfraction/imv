@@ -56,9 +56,7 @@ rm -rf %{buildroot}/usr/share/man
 %files
 %defattr(-,root,root,-)
 /usr/bin/imv
-/usr/bin/imv-folder
 /usr/bin/imv-wayland
 /usr/bin/imv-msg
 /usr/bin/imv-x11
 /usr/share/applications/imv.desktop
-/usr/share/applications/imv-folder.desktop
