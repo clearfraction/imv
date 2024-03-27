@@ -1,5 +1,5 @@
 Name     : imv
-Version  : 4.4.0
+Version  : 4.5.0
 Release  : 1
 URL       : https://sr.ht/~exec64/imv/
 Source0  : https://git.sr.ht/~exec64/imv/archive/v%{version}.tar.gz#/%{name}-%{version}.tar.gz
